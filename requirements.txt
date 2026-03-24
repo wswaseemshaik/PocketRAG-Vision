@@ -1,0 +1,8 @@
+python-telegram-bot>=20.0,<22
+sentence-transformers>=2.2.0
+transformers>=4.40.0
+torch>=2.1.0
+numpy>=1.24.0
+Pillow>=10.0.0
+requests>=2.31.0
+
